@@ -1,4 +1,4 @@
-header{
+.header--main{
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
@@ -9,19 +9,18 @@ header{
 body{
     background: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a{
     color: aquamarine;
     font-size: 16px;
 }
 #subtitle{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 42px;
     font-weight: 300;
     color: white;
 }
 #desc{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
 }
